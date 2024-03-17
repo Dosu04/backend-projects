@@ -5,42 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b76dcf75-4fb4-40f5-94d4-5489b34b754e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/HELP.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dosu04/dosumeet/DosumeetApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dosu04/dosumeet/controllers/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dosu04/dosumeet/services/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dosu04/dosumeet/user/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/login.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/register.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/register.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/videocall.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/dosu04/dosumeet/DosumeetApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dosu04/dosumeet/DosumeetApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dosu04/dosumeet/controllers/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dosu04/dosumeet/services/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dosu04/dosumeet/user/User$UserBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dosu04/dosumeet/user/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/css/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/js/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/js/login.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/js/register.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/register.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/videocall.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
